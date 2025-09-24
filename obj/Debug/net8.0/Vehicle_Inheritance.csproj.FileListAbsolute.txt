@@ -96,3 +96,4 @@ C:\msys64\home\Asus\Vehicle_Inheritance\bin\Debug\net8.0\zh-Hant\Microsoft.TestP
 C:\msys64\home\Asus\Vehicle_Inheritance\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\msys64\home\Asus\Vehicle_Inheritance\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\msys64\home\Asus\Vehicle_Inheritance\obj\Debug\net8.0\Vehicle_.10633839.Up2Date
+C:\msys64\home\Asus\Vehicle_Inheritance\obj\Debug\net8.0\Vehicle_Inheritance.sourcelink.json
